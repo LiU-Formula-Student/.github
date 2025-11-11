@@ -4,6 +4,7 @@ This is the GitHub organisation for the LiU Formula Student team, the Formula St
 ### Are you a member of the team?
 If you are a member of the team and want access to the organisation, please send an message to any member of the Management group with you GitHub username and they will add you to the GitHub Organization.
 
+When you have recived and accepted the invite you should now be able to view this page as member. Change the dropdown "View as" on the right side to "View as: Member"
 <!--
 
 **Here are some ideas to get you started:**
