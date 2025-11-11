@@ -1,4 +1,8 @@
 ## Hi there 👋
+This is the GitHub organisation for the LiU Formula Student team, the Formula Student team at Linköping University (LiU).
+
+### Are you a member of the team?
+If you are a member of the team and want access to the organisation, please send an message to any member of the Management group with you GitHub username and they will add you to the GitHub Organization.
 
 <!--
 
