@@ -1,0 +1,63 @@
+name: ✨ Feature Request
+description: Suggest a new feature or improvement
+title: "[Feature]: "
+labels: ["feature"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for submitting a feature request! Let's build something awesome 🚀
+
+  - type: input
+    id: summary
+    attributes:
+      label: Feature summary
+      description: Short description of the feature
+      placeholder: "Example: Add dark mode to BOM dashboard"
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or motivation
+      description: What problem does this solve? Why is it needed?
+      placeholder: "It's hard to work at night when the system doesn't support dark mode..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed solution
+      description: Describe your idea or suggestion
+      placeholder: "Add a theme toggle in the navbar that switches between light and dark mode..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Optional — other approaches you thought about
+      placeholder: "Let browser handle dark theme automatically (but less ideal because...)"
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional context
+      description: Mockups, screenshots, links, references, etc.
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Checklist
+      options:
+        - label: I have searched existing issues
+          required: true
+        - label: This feature would be valuable to others, not only myself
+          required: true
+        - label: I can help implement or test this feature
+          required: false
