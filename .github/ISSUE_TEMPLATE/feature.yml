@@ -2,6 +2,7 @@ name: ✨ Feature Request
 description: Suggest a new feature or improvement
 title: "[Feature]: "
 labels: ["feature"]
+type: feature
 assignees: []
 
 body:
