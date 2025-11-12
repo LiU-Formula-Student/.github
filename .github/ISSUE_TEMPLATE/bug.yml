@@ -2,6 +2,7 @@ name: 🐛 Bug Report
 description: Report something that is not working as expected
 title: "[Bug]: "
 labels: ["bug"]
+type: bug
 assignees: []
 
 body:
