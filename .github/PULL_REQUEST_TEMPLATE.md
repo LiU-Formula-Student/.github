@@ -7,9 +7,20 @@
 ## Related Issue(s)
 <!-- For example Closes #123 -->
 
-## AI usage
-<!-- Did you use AI? If so, how? Confirm you've reviewed the output. -->
-- [ ] No AI used
-- [ ] AI-assisted (autocomplete, suggestions, answering questions)
-- [ ] AI-generated (significant parts of the code written by AI)
-- [ ] I have reviewed and understand all AI-generated code in this PR
+## Something to review more thoroughly?
+<!--
+If the reviewer is pressed for time, what is most important to focus on?
+Or if anything is security or functionally critical is must be reviewed more thoroughly, please specify what that would be if applicable.
+-->
+
+## [Only for PR to main] Anything left to review?
+<!-- If this is not a PR to main, delete this block -->
+<!-- 
+Otherwise, was something not reviewed in a PR from feature/* to develop? 
+If yes, specify what needs a review and what has already been reviewed.
+-->
+
+## Checklist
+- [ ] Test suite ran locally
+- [ ] I take full responsibility for the code, especially if AI-generated
+- [ ] I have updated or created any relevant documentation, not AI-generated documentation (AI review is encouraged)
